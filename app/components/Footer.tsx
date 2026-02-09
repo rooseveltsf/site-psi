@@ -7,7 +7,7 @@ const WHATSAPP_TEXT =
 const NAV = [
   { label: "Início", href: "/" },
   { label: "Sobre", href: "/sobre" },
-  { label: "Serviços", href: "/servicos" },
+//   { label: "Serviços", href: "/servicos" },
   { label: "Contato", href: "/contato" },
   { label: "Avaliações", href: "/avaliacoes" },
 ];
@@ -55,7 +55,7 @@ export default function Footer() {
                 href={whatsappHref}
                 target="_blank"
                 rel="noreferrer"
-                className="inline-flex items-center justify-center rounded-full bg-emerald-700 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-emerald-800 focus:outline-none focus-visible:ring-4 focus-visible:ring-emerald-200"
+                className="inline-flex items-center justify-center rounded-full bg-emerald-700 px-4 py-2 text-sm font-semibold !text-white shadow-sm transition hover:bg-emerald-800 focus:outline-none focus-visible:ring-4 focus-visible:ring-emerald-200"
               >
                 Falar no WhatsApp
               </a>
