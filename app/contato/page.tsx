@@ -1,7 +1,7 @@
 // app/contato/page.tsx
 import Link from "next/link";
 
-const WHATSAPP_PHONE = "55SEUNUMEROAQUI";
+const WHATSAPP_PHONE = "5583998523094";
 const WHATSAPP_TEXT =
   "Olá! Vim pelo seu site e gostaria de informações sobre atendimento psicológico.";
 
@@ -62,7 +62,7 @@ export default function ContatoPage() {
             <ContactCard
               title="WhatsApp"
               desc="Canal principal para dúvidas e agendamento."
-              value="+55 (00) 00000-0000"
+              value="+55 (83) 99852-3094"
               href={whatsappHref}
               cta="Abrir WhatsApp"
               accent

@@ -1,7 +1,7 @@
 // app/avaliacoes/page.tsx
 import Link from "next/link";
 
-const WHATSAPP_PHONE = "55SEUNUMEROAQUI";
+const WHATSAPP_PHONE = "5583998523094";
 const WHATSAPP_TEXT =
   "Olá! Vim pelo seu site e gostaria de informações sobre atendimento psicológico.";
 

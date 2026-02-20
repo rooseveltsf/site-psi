@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const WHATSAPP_PHONE = "55SEUNUMEROAQUI";
+const WHATSAPP_PHONE = "5583998523094";
 const WHATSAPP_TEXT =
   "Olá! Vim pelo seu site e gostaria de informações sobre atendimento psicológico.";
 
@@ -121,7 +121,7 @@ export default function SobrePage() {
               <div className="rounded-3xl border border-black/10 bg-zinc-50 p-6 shadow-sm">
                 <div className="prose prose-zinc max-w-none">
                   <p className="text-zinc-700">
-                    Sou formada em Psicologia pela <strong>Universidade X</strong> e atuo
+                    Sou formada em Psicologia pela <strong>Centro Universitário de João pessoa (UNIPE)</strong> e atuo
                     com foco em <strong>[público alvo]</strong>, com atendimentos
                     <strong> online e/ou presenciais</strong>.
                   </p>
@@ -141,7 +141,7 @@ export default function SobrePage() {
                   <MiniCard
                     title="Formação"
                     items={[
-                      "Graduação em Psicologia — Universidade X",
+                      "Centro universitário de João pessoa (UNIPE)",
                       "Curso/Capacitação — Tema Y",
                       "Curso/Capacitação — Tema Z",
                     ]}
