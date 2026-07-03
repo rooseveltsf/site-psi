@@ -35,4 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-REACT-3353 - [ESTOQUE WEB] MENU - RELATORIO - DEMOSTRATIVO - RECEITA POR ATIVIDADE FINANCEIRA -> SE CHECKBOX MARCADO NÃO EXIBIR REGISTRO GERADOS PELA ROTINA DE NOTA ASSINADA
+REACT-3358 - [ESTOQUE WEB] MENU - RELATORIOS - CONTAS A PAGAR / PAGAS - POR DATA DE VENCIMENTO
